@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+  <title id="t">Calm sunrise over soft hills</title>
+  <desc id="d">A soft teal and lavender sky with a pale sun rising over layered hills, a gentle image of hope.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cfe6e4"/>
+      <stop offset="0.6" stop-color="#e4e3f3"/>
+      <stop offset="1" stop-color="#fbeedd"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fff6e0"/>
+      <stop offset="1" stop-color="#fbe3c0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" fill="url(#sky)"/>
+  <circle cx="820" cy="230" r="150" fill="url(#sun)"/>
+  <circle cx="820" cy="230" r="55" fill="#fdeccf"/>
+  <path d="M0 250 C150 200 300 220 450 245 C600 270 700 215 860 230 C1000 245 1100 215 1200 235 L1200 360 L0 360 Z" fill="#b7d8d4"/>
+  <path d="M0 290 C200 255 330 285 520 295 C720 305 860 265 1040 285 C1120 293 1170 285 1200 280 L1200 360 L0 360 Z" fill="#9cc7c2"/>
+  <path d="M0 330 C180 310 360 335 560 335 C760 335 940 310 1200 325 L1200 360 L0 360 Z" fill="#7fb3ae"/>
+  <g fill="#ffffff" opacity="0.7">
+    <ellipse cx="220" cy="90" rx="70" ry="16"/>
+    <ellipse cx="270" cy="78" rx="45" ry="12"/>
+    <ellipse cx="980" cy="70" rx="80" ry="15"/>
+    <ellipse cx="1040" cy="58" rx="46" ry="11"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 260" role="img" aria-labelledby="t d">
+  <title id="t">Awareness ribbon</title>
+  <desc id="d">A soft lavender and teal awareness ribbon.</desc>
+  <path d="M100 150 L58 238 L88 230 L112 246 L128 160 Z" fill="#9aa5d8"/>
+  <path d="M100 150 L142 238 L112 230 L88 246 L72 160 Z" fill="#7fb3ae"/>
+  <path d="M100 24 C38 24 36 112 100 152 C164 112 162 24 100 24 Z" fill="none" stroke="#9aa5d8" stroke-width="22" stroke-linejoin="round"/>
+  <path d="M100 24 C70 24 56 52 62 80" fill="none" stroke="#7fb3ae" stroke-width="22" stroke-linecap="round" opacity="0.8"/>
+</svg>
